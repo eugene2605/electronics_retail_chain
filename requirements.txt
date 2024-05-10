@@ -1,0 +1,9 @@
+django
+psycopg2
+djangorestframework
+ipython
+python-dotenv
+djangorestframework-simplejwt
+django-filter
+drf-yasg
+flake8
